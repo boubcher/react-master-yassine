@@ -1,0 +1,16 @@
+.form{
+    width: 500px;
+    box-shadow: 10px 10px 8px #888888;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: antiquewhite;
+    border: 2px solid gray;
+}
+.input-cust{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}

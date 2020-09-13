@@ -1,0 +1,11 @@
+table, tr, td {
+    border: 1px solid black;
+}
+.div-show{
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 10px;
+}
+.tc{
+    text-align: center;
+}

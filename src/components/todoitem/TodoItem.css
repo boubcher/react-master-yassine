@@ -1,0 +1,9 @@
+.input-Cust{
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+.is-done{
+    color: red;
+}
